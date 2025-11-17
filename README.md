@@ -1,4 +1,4 @@
-mini blockchin's main functions:
+mini blockchain's main functions:
 迷你区块链主要实现了以下功能：
     help [command...]    Provides help for a given command.
     exit                 Exits application.
